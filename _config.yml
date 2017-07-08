@@ -15,8 +15,9 @@ paginate:            5
 # About/contact
 author:
   name:              Mark Otto
-  url:               https://twitter.com/mdo
+  url:               https://flyinggh.github.io/
   email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
+github.repo:         https://github.com/flyingGH

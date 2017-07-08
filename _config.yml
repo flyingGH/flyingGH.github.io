@@ -2,7 +2,7 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+#relative_permalinks: false
 
 # Setup
 title:               Lanyon
@@ -16,7 +16,7 @@ paginate:            5
 author:
   name:              Mark Otto
   url:               http://flyinggh.github.io/
-  email:             markdotto@gmail.com
+  email:             gzh550622@126.com
 
 # Custom vars
 version:             1.0.0
